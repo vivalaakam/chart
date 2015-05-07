@@ -1,0 +1,13 @@
+{
+  "name": "chart_cross",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "grunt": ">= 0.4",
+    "grunt-cli": ">= 0.1.6",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-requirejs": ">=0.4",
+    "grunt-contrib-less": ">=1.0.0",
+    "grunt-contrib-connect": ">=0.10"
+  }
+}
